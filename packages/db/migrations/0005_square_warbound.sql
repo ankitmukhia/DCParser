@@ -1,0 +1,1 @@
+ALTER TABLE "document" ALTER COLUMN "chat_id" SET DATA TYPE text;

@@ -1,0 +1,28 @@
+{
+  "name": "@repo/db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "db:generate": "pnpm drizzle-kit generate",
+    "db:migrate": "pnpm drizzle-kit migrate",
+    "db:push": "pnpm drizzle-kit push"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "exports": {
+    ".": "./src/index.ts",
+		"./config": "./src/config.ts"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.0.1",
+    "better-auth": "^1.2.12",
+    "dotenv": "^17.0.1",
+    "drizzle-orm": "^0.44.2"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.31.4",
+    "tsx": "^4.20.3"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1754749707290,
+      "tag": "0000_flashy_iron_monger",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1754759774281,
+      "tag": "0001_premium_firebird",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1754862648689,
+      "tag": "0002_public_ezekiel",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1754864943241,
+      "tag": "0003_cool_killmonger",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1754865032041,
+      "tag": "0004_vengeful_misty_knight",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1754865370903,
+      "tag": "0005_square_warbound",
+      "breakpoints": true
+    }
+  ]
+}
